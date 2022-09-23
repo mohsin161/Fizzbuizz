@@ -1,3 +1,7 @@
+#Task 1 Muhammad Mohsin
+# import csv file 
+# getting help from web + classmate
+
 import csv
 
 input_file = csv.DictReader(open("Trails.csv"))
